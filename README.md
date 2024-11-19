@@ -1,0 +1,1 @@
+Code formatter that  reads in depth recursively all code files at a provided path. Removes usless characters in code,separates code with xml file name tags. Output together binded formated code in a *minified_code.txt* file created on the descktop. Processes only files .cs,.html,.ts,.cpp,.h
